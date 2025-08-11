@@ -1,0 +1,12 @@
+ipykernel
+jupyter
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+requests
+flask
+fastapi
+uvicorn[standard]
+black
